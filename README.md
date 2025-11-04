@@ -1,4 +1,4 @@
-### **Lesson 6: Input Elements and Accessibility - Classwork Assignment**
+### **Lesson 7: Input Elements and Accessibility - Classwork Assignment**
 
 #### **Objective:**
 
